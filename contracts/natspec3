@@ -1,0 +1,9 @@
+?IF: = propositional statement
+
+CHECK^	 ^ 	  <safety or sanity check, explicity validation>
+
+PROCESS@  @   <contract process, e.g. 'contract emits event'>
+
+ACTION>>  >>  <i.e. IFTT, deterministic result should arise (e.g. flip, flap, flop)>
+
+NOTE+ 	+	<explains thinking behind a design choice, or adds a clarifying statement>
