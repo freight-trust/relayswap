@@ -1,0 +1,10 @@
+node_modules
+*.tar.gz
+*.key
+keys
+Key
+*.pkcs
+*.tar
+*.zip
+
+*.code-snippets
